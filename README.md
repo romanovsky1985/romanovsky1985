@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Anton</h1>
-  <h3>Coder from Rostov-on-Don</h3>
+  <h3>Computer math ingineer from Rostov-on-Don</h3>
 </div>
 
 ## Lenguages and tools
